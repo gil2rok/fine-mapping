@@ -1,7 +1,7 @@
 # Fine-Mapping
 ![License: Apache-2.0](https://img.shields.io/github/license/gil2rok/fine-mapping)
 
-Perform fine-mapping that identifies which genetic variants (SNPS) cause a complex, phenotypic trait. Do so by extending a probablistic regression model (SuSiE) to smartly incoprorate functional annotations.
+Perform fine-mapping that identifies which genetic variants (SNPs) cause a complex, phenotypic trait. Do so by extending a probablistic regression model (SuSiE) to smartly incoprorate functional annotations.
 
 **Note: this repo is under active development and is not yet fully functional**
 
